@@ -24,12 +24,16 @@ Aqui estão algumas coisas sobre mim:
 
   ## Ferramentas
   <div>
+    <img alt = "Gabriel-Git" src = "https://img.shields.io/badge/git-%23f14e32?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt = "Gabriel-GitHub" src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt = "Gabriel-VSCode" src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img alt = "Gabriel-PyCharm" src = "https://img.shields.io/badge/pycharm-6cc04a?style=for-the-badge&logo=pycharm&logoColor=white"/>
-    <img alt = "Gabriel-GitHub" src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt = "Gabriel-Jupyter" src = "https://img.shields.io/badge/jupyter-%23e45735?style=for-the-badge&logo=jupyter&logoColor=white"/>
     <img alt = "Gabriel-Figma" src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img alt = "Gabriel-Trello" src = "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
     <img alt = "Gabriel-Microsoft-Teams" src = "https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
-    <img alt = "Gabriel-Trello" src = "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+
+
   </div>
   
 ## 📊 Estatísticas
