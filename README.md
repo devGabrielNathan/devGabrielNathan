@@ -8,7 +8,6 @@ Aqui estão algumas coisas sobre mim:
   
   ## Linguagens
   <div style ="display:  inline_block"><br>
-    <img align = "center" alt = "Gabriel-C" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
     <img align = "center" alt = "Gabriel-Python" height = "50" width = "50" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>          
   </div>
   
