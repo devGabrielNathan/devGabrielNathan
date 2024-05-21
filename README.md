@@ -3,8 +3,8 @@
 Aqui estão algumas coisas sobre mim:
 
 - 🎓 Estou cursando Sistemas de Informação pela Universidade Veiga de Almeida.
-- ☕ Atualmente estou aprofundando meus conhecimentos em Python e SQLite.
-- 📚 Estou interessado em aprender sobre Flask e Django.
+- ☕ Atualmente estou aprofundando meus conhecimentos em Django.
+- 📚 Estou interessado em aprender sobre Flask e FastAPI.
   
   ## Linguagens
   <div style ="display:  inline_block"><br>
