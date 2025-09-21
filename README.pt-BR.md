@@ -12,7 +12,7 @@
 
 ## Sobre Mim
 
-Cursando Sistemas de Informação desde maio de 2023, tenho grande interesse em entender como o software funciona em seus níveis mais fundamentais. Gosto de explorar conceitos como o gerenciamento de memória em C, pois acredito que uma base sólida é crucial para construir boas soluções. Minha experiência prática vem, em grande parte, de projetos acadêmicos, onde a colaboração em equipe é fundamental para transformar ideias em código funcional.
+Atualmente cursando Sistemas de Informação desde maio de 2023, tenho grande interesse em entender como o software funciona em seus níveis mais fundamentais. Gosto de explorar conceitos como gerenciamento de memória em C, pois acredito que uma base sólida é crucial para a construção de boas soluções. Minha experiência prática vem, em grande parte, de projetos pessoais e acadêmicos, nos quais exploro ideias de forma independente e também colaboro em equipes para transformar conceitos em código funcional.
 
 ## Foco e Tecnologias
 
