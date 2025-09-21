@@ -12,7 +12,7 @@
 
 ## About Me
 
-Studying Information Systems since May 2023, I have a keen interest in understanding how software works at its most fundamental levels. I enjoy exploring concepts like memory management in C, as I believe a solid foundation is crucial for building good solutions. My practical experience comes largely from academic projects, where teamwork is essential to turn ideas into functional code.
+Studying Information Systems since May 2023,I have a keen interest in understanding how software works at its most fundamental levels. I enjoy exploring concepts like memory management in C, as I believe a solid foundation is crucial for building good solutions. My practical experience comes largely from personal and academic projects, where I explore ideas independently and also collaborate in team settings to turn concepts into functional code.
 
 ## Focus and Technologies
 
