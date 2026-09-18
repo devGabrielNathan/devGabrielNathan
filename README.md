@@ -1,19 +1,13 @@
 <p align="center">
-  <img src="banner_gabriel_linkedin.jpg" alt="Gabriel Nathan - Full Stack Developer" width="100%" />
+  <img src="banner_gabriel_linkedin.webp" alt="Gabriel Nathan - Desenvolvedor Full Stack" width="100%" />
 </p>
 
-<div align="center">
-  <h1>Gabriel Nathan dos Santos Pires</h1>
-  <h2>Full Stack Developer</h2>
-  <p><strong>Java · Spring Boot · Angular · REST APIs · SQL</strong></p>
-  <p>Rio de Janeiro, Brazil</p>
-  <p>Language: <a href="README.pt-BR.md">Português</a></p>
-</div>
+## Sobre Mim
 
-## About Me
+Sou Desenvolvedor Full Stack com experiência prática no desenvolvimento de aplicações web, atuando em back-end e front-end com foco em Java, Spring Boot, Angular, APIs REST e SQL.
 
-I am a Full Stack Developer with practical experience building web applications across back-end and front-end layers. My main focus is Java, Spring Boot, Angular, REST APIs, and SQL.
+Tenho experiência em desenvolvimento de APIs REST, modelagem de dados, implementação de regras de negócio e integração entre sistemas, aplicando boas práticas de arquitetura e organização de código.
 
-I have worked on REST API development, data modeling, business rules, and system integration, applying good architecture and code organization practices. My experience comes from personal, academic, and open source projects, including code reviews and collaborative development.
+Minha experiência vem de projetos pessoais, acadêmicos e open source, com participação em code reviews e desenvolvimento colaborativo. Utilizo Git e GitHub para versionamento e acompanhamento dos projetos, com atenção à qualidade e organização do código.
 
-I am currently pursuing a Bachelor's degree in Information Systems at Universidade Veiga de Almeida and looking for opportunities in software development, especially Full Stack roles focused on Java and related technologies.
+Atualmente, curso Bacharelado em Sistemas de Informação na Universidade Veiga de Almeida e busco oportunidades na área de Desenvolvimento de Software, especialmente em posições Full Stack com Java e tecnologias relacionadas.
